@@ -4,7 +4,7 @@
 
 I have experience in both web and mobile applications. I have worked with several local and regional clients. I am committed to producing visually appealing, Modern Interfaces that set my clients apart from the competition, looking for challenging projects and opportunities to help businesses achieve their marketing goals through engaging visual designs. My aim has always been to produce designs that look attractive and professional.
 
-Skills: REACT.JS / JS / HTML / CSS
+Skills: REACT.JS / Redux / Next.JS / JS / HTML / CSS
 
 - 🔭 I’m currently working on building a new project.
 - 🌱 I’m currently learning Redux and Next.js 
