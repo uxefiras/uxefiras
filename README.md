@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Firas
-#### I am Junior UX Engineer willing to start new challenges
+### Hi there 🌙, my name is Firas
+#### I'm a junior UX Engineer willing to start new challenges
 ![I am UX Engineer willing to start new challenges](https://github.com/uxefiras/uxefiras/blob/main/Margarita%20Perez.png)
 
 I believe that creating a high-quality product should be a target and the priority should be for iterating very well to come up with an application with absorbed requirements as it needs.
