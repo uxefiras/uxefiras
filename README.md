@@ -1,8 +1,9 @@
 ### Hi there 👋, my name is Firas
-#### I am UX Engineer willing to start new challenges
+#### I am Junior UX Engineer willing to start new challenges
 ![I am UX Engineer willing to start new challenges](https://github.com/uxefiras/uxefiras/blob/main/Margarita%20Perez.png)
 
-I have experience in web applications. I have worked with several local and regional clients. I am committed to producing visually appealing, Modern Interfaces that set my clients apart from the competition, looking for challenging projects and opportunities to help businesses achieve their marketing goals through engaging visual designs. My aim has always been to produce webistes that look attractive, professional, and high-performed.
+I believe that creating a high-quality product should be a target and the priority should be for iterating very well to come up with an application with absorbed requirements as it needs.
+Good iteration = Good requirement understanding = brilliant app
 
 Skills: REACT.JS / Redux / Next.JS / JS / HTML / CSS
 
