@@ -10,8 +10,8 @@ Skills: REACT.JS / Redux / Next.JS / JS / HTML / CSS
 - 🔭 I’m currently working on building a new project.
 - 🌱 I’m currently learning Redux and Next.js 
 - 👯 I’m looking to collaborate on new big and mid projects. 
-- 💬 Ask me about any thing relate to front-end.
-- 📫 How to reach me: firas.os@mail.ru  
+- 💬 Ask me about any thing relate to front-end and UX.
+- 📫 How to reach me: firas.os@mail.ru
 - ⚡ Fun fact: I'm obsessed with video games. 
 
 
