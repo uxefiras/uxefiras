@@ -5,7 +5,7 @@
 I believe that creating a high-quality product should be a target and the priority should be for iterating very well to come up with an application with absorbed requirements as it needs.
 Good iteration = Good requirement understanding = brilliant app
 
-Skills: REACT.JS / Redux / Next.JS / JS / HTML / CSS
+Skills: React.JS / Redux / Next.JS / JS / HTML / CSS
 
 - 🔭 I’m currently working on building a new project.
 - 🌱 I’m currently learning Redux and Next.js 
