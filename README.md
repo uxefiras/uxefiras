@@ -2,8 +2,8 @@
 #### I'm a Jr. UX Engineer willing to start new challenges
 ![I am UX Engineer willing to start new challenges](https://github.com/uxefiras/uxefiras/blob/main/Margarita%20Perez.png)
 
-I believe that creating a high-quality product should be a target and the priority should be for iterating very well to come up with an application with absorbed requirements as it needs.
-Good iteration = Good requirement understanding = brilliant app
+I believe that creating a high-quality product should be a target and the priority should be for iterating very well to come up with an product with absorbed requirements as it needs.
+Good iteration = Good requirement understanding = Good product
 
 Skills: React.JS / Redux / Next.JS / JS / HTML / CSS
 
